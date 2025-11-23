@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://m3u4u.com/xml/jq2zy9pzprh3jkjnxr58,https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
 
-#EXTINF:-1 grupo-título="PARAGUAY" tvg-logo="https://ia800302.us.archive.org/13/items/logonetplayor-2/LOGONETPLAYOR2.png" ,NETPLAY HD 🇵🇾
+#EXTINF:-1 grupo-título="Latv" tvg-logo="https://ia800302.us.archive.org/13/items/logonetplayor-2/LOGONETPLAYOR2.png" ,NETPLAY HD 🇵🇾
 https://alba-gt-chapintv-c3.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://ia804608.us.archive.org/16/items/logodeportes_202405/logodeportes.png" ,DEPORTES HD 🇵🇾
