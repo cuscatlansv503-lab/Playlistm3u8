@@ -3,8 +3,8 @@
 #EXTINF:-1 grupo-título="Latv" tvg-logo="https://ia800302.us.archive.org/13/items/logonetplayor-2/LOGONETPLAYOR2.png" ,NETPLAY HD 🇵🇾
 https://alba-gt-chapintv-c3.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://ia804608.us.archive.org/16/items/logodeportes_202405/logodeportes.png" ,DEPORTES HD 🇵🇾
-https://tv.streamcasthd.com:3263/live/netplaydeporteslive.m3u8
+#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://ia804608.us.archive.org/16/items/logodeportes_202405/logodeportes.png" ,Latv HD 🇵🇾
+https://alba-gt-chapintv-c3.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 grupo-título="PARAGUAY" tvg-logo="https://iptv.com.py/tv/players/logos/rcc.png" ,RCC HD 🇵🇾
 https://59ce1298bfb98.streamlock.net:443/rcctv02/rcctv02/playlist.m3u8
